@@ -31,3 +31,4 @@
 
 - Ensure the archive is named **exactly** `my_dataset.zip`, as the notebook expects this filename.
 - If the notebook cannot locate the dataset, verify that the ZIP file is in the correct directory and has not been renamed.
+- Artificial Intelligence has been used for the purpose of generating quick notes for the functions and parameters of the libraries TensorFlow and NumPy.
